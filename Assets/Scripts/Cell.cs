@@ -16,6 +16,7 @@ public class Cell : MonoBehaviour {
 	private PlayerController RefPlayerController;
 
 
+
 	
 	void Start () 
 	{
