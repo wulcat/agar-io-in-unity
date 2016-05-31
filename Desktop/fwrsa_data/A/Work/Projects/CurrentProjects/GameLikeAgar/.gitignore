@@ -18,13 +18,19 @@ ExportedObj/
 *.booproj
 *.svd
 
+/Temp
+/Library
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
 
 # Unity3D generated meta files
 *.pidb.meta
 
 # Unity3D Generated File On Crash Reports
-<<<<<<< HEAD
 sysinfo.txt
-=======
-sysinfo.txt
->>>>>>> ae7eab11261c1f2da0abf302fc4381d555eb64d7
