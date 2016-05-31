@@ -32,6 +32,10 @@ ehthumbs.db
 Thumbs.db
 /*.sln
 
+TrialScripts/
+SinglePlayerAgar/
+
+
 # Unity3D generated meta files
 *.pidb.meta
 
