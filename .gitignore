@@ -17,7 +17,20 @@ ExportedObj/
 *.pidb
 *.booproj
 *.svd
+/*.csproj
 
+*.meta
+Library/
+/Temp
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+/*.sln
 
 # Unity3D generated meta files
 *.pidb.meta
