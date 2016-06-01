@@ -1,4 +1,4 @@
-# ![Skyies](https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjLnJ-G2IbNAhUFRI8KHRGUDscQjRwIBw&url=http%3A%2F%2Fagario-skins.org%2Fpremium-skins&psig=AFQjCNHLqJ84JqeCMPvdlhlwwnSU_0d_aA&ust=1464865666437571) Agar.io-in-Unity3d
+# ![Skyies](http://agar.io/favicon-32x32.png) Agar.io-in-Unity3d
 
 
 
