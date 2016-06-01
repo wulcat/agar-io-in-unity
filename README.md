@@ -1,6 +1,6 @@
 # Agar.io-in-Unity3d
 
-![Skyies]](http://www.skyies.com/res/image/icon/logo/skyies_icon_32.png)
+![Skyies](http://www.skyies.com/res/image/icon/logo/skyies_icon_32.png)
 
 ## How to use 
 
