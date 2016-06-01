@@ -1,11 +1,14 @@
 # Agar.io-in-Unity3d
 
-![Skyies](http://www.skyies.com/res/image/icon/logo/skyies_icon_32.png) Skyies
+![Skyies](http://www.skyies.com/res/image/icon/logo/skyies_icon_32.png)
 
 ## How to use 
 
 Download the files. 
+
+```js
 In Unity > File > Open Project > Open > Locate to the downloaded folder > Open
+```
 
 ## Info
 
