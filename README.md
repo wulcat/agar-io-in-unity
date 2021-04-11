@@ -1,4 +1,4 @@
 
 # agar-io-in-unity
 
-##### Old project made from by replacting the popuper agar.io 
+##### Old project made by replicating the popular agar.io game
